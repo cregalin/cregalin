@@ -1,5 +1,5 @@
 ### Olá. Eu sou a  Caroline Regalin ✨👋
-- 🔭 Estou trabalhando com Ruby on rails
+- 🔭 Trabalhando com Ruby on rails
 - 🌱 Estudando Flutter
 
 <div>
